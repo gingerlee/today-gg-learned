@@ -1,6 +1,6 @@
-# Today I learned (as static site)
+# Today I learned 🤓
 
-or ... a **"Netlify Contentful React Static Site example"**
+#### a **"Netlify Contentful React Static Site example"**
 
 ![The Today I learned site](./screenshot.png)
 
